@@ -1,2 +1,1 @@
-# The_Essence_of_Java
-Java의 정석 확인해보기
+# 자바의 정석 코드 확인해보기
