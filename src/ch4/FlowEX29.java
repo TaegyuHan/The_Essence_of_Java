@@ -1,6 +1,6 @@
 package ch4;
 
-public class Flow29 {
+public class FlowEX29 {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {

@@ -2,7 +2,7 @@ package ch4;
 
 import java.util.Scanner;
 
-public class FlowEx16 {
+public class FlowEx17 {
 
     public static void main(String[] args) {
         int num = 0;
